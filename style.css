@@ -1,8 +1,19 @@
-.caixa{
+.caixa-numero{
     width: 100px;
     height: 100px;
     background-color: gold;
     font-size: 64px;
     margin: 16px;
     text-align: center;
+}
+.caixa-nome{
+    width: 500px;
+    height: 100px;
+    background-color: gold;
+    font-size: 64px;
+    margin: 16px;
+    text-align: center;
+}
+.conteiner{
+    display: flex;
 }
